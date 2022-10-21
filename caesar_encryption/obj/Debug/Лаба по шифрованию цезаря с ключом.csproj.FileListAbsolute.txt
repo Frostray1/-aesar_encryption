@@ -1,0 +1,10 @@
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\bin\Debug\Лаба по шифрованию цезаря с ключом.exe.config
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\bin\Debug\Лаба по шифрованию цезаря с ключом.exe
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\bin\Debug\Лаба по шифрованию цезаря с ключом.pdb
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\obj\Debug\Лаба по шифрованию цезаря с ключом.csprojAssemblyReference.cache
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\obj\Debug\Лаба_по_шифрованию_цезаря_с_ключом.Form1.resources
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\obj\Debug\Лаба_по_шифрованию_цезаря_с_ключом.Properties.Resources.resources
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\obj\Debug\Лаба по шифрованию цезаря с ключом.csproj.GenerateResource.cache
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\obj\Debug\Лаба по шифрованию цезаря с ключом.csproj.CoreCompileInputs.cache
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\obj\Debug\Лаба по шифрованию цезаря с ключом.exe
+C:\Users\frostray\source\repos\Лаба по шифрованию цезаря с ключом\Лаба по шифрованию цезаря с ключом\obj\Debug\Лаба по шифрованию цезаря с ключом.pdb
